@@ -7,6 +7,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
        
     }
+    
+    setupView() {
+        view.backgraundColor = .systemRed
+
+    }
 
 
 }
